@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nomi": "Olma",
+    "narxi": 12000,
+    "kategoriya": "Mevalar",
+    "omborda": true
+  },
+  {
+    "id": 2,
+    "nomi": "Banan",
+    "narxi": 18000,
+    "kategoriya": "Mevalar",
+    "omborda": true
+  },
+  {
+    "id": 3,
+    "nomi": "Kartoshka",
+    "narxi": 5000,
+    "kategoriya": "Sabzavotlar",
+    "omborda": true
+  },
+  {
+    "id": 4,
+    "nomi": "Piyoz",
+    "narxi": 4000,
+    "kategoriya": "Sabzavotlar",
+    "omborda": false
+  },
+  {
+    "id": 5,
+    "nomi": "Mol go'shti",
+    "narxi": 85000,
+    "kategoriya": "Go'sht mahsulotlari",
+    "omborda": true
+  },
+  {
+    "id": 6,
+    "nomi": "Sut 1L",
+    "narxi": 11000,
+    "kategoriya": "Sut mahsulotlari",
+    "omborda": true
+  },
+  {
+    "id": 7,
+    "nomi": "Non",
+    "narxi": 3500,
+    "kategoriya": "Non mahsulotlari",
+    "omborda": true
+  },
+  {
+    "id": 8,
+    "nomi": "Gazli suv 1.5L",
+    "narxi": 9000,
+    "kategoriya": "Ichimliklar",
+    "omborda": true
+  },
+  {
+    "id": 9,
+    "nomi": "Guruch 1kg",
+    "narxi": 17000,
+    "kategoriya": "Bakaleya",
+    "omborda": true
+  },
+  {
+    "id": 10,
+    "nomi": "Tuxum 10 dona",
+    "narxi": 22000,
+    "kategoriya": "Parranda mahsulotlari",
+    "omborda": true
+  }
+]
