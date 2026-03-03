@@ -1,4 +1,4 @@
-bot_token = '8271090343:AAHhpnhtItbmrt3-8KrgUo6fLx6CYbBz5Zk'
+bot_token = 'xxxxxxxxxx'
 
 
 from aiogram.types import InlineKeyboardButton,InlineKeyboardMarkup,WebAppInfo, ReplyKeyboardMarkup, KeyboardButton
@@ -93,3 +93,4 @@ def saqlash(telegram_id, foydalanuvchi_nomi, toliq_ism, kontakt, qoshimcha_telef
     except Error as e:
         print("xato: ",e)        
     
+
